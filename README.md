@@ -30,5 +30,5 @@ A powerful and efficient Face Recognition System using computer vision and deep 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/face-recognition-system.git
+git clone https://github.com/bhawsarathrva/Face-Recognition-System-.git
 cd face-recognition-system
